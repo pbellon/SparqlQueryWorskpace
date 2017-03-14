@@ -1,0 +1,4 @@
+SELECT DISTINCT ?p WHERE {
+  ?p a foaf:Person .
+  ?p foaf:name "Pierre Bourdieu"
+}
